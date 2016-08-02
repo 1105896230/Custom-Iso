@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1930E3851D501F3B0082A3C9 /* ic_launcher.png in Resources */ = {isa = PBXBuildFile; fileRef = 1930E3841D501F3B0082A3C9 /* ic_launcher.png */; };
 		199A0BA51D4EA5E200E662B0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 199A0BA41D4EA5E200E662B0 /* main.m */; };
 		199A0BA81D4EA5E200E662B0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 199A0BA71D4EA5E200E662B0 /* AppDelegate.m */; };
 		199A0BAB1D4EA5E200E662B0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 199A0BAA1D4EA5E200E662B0 /* ViewController.m */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1930E3841D501F3B0082A3C9 /* ic_launcher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_launcher.png; path = ../../../../ic_launcher.png; sourceTree = "<group>"; };
 		199A0BA01D4EA5E200E662B0 /* CustomDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		199A0BA41D4EA5E200E662B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		199A0BA61D4EA5E200E662B0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 		199A0BA21D4EA5E200E662B0 /* CustomDemo */ = {
 			isa = PBXGroup;
 			children = (
+				1930E3841D501F3B0082A3C9 /* ic_launcher.png */,
 				199A0BD61D4EA5F800E662B0 /* Buller */,
 				199A0BA61D4EA5E200E662B0 /* AppDelegate.h */,
 				199A0BA71D4EA5E200E662B0 /* AppDelegate.m */,
@@ -264,6 +267,7 @@
 				199A0BB31D4EA5E200E662B0 /* LaunchScreen.storyboard in Resources */,
 				199A0BB01D4EA5E200E662B0 /* Assets.xcassets in Resources */,
 				199A0BAE1D4EA5E200E662B0 /* Main.storyboard in Resources */,
+				1930E3851D501F3B0082A3C9 /* ic_launcher.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +520,7 @@
 				199A0BCF1D4EA5E200E662B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		199A0BD01D4EA5E200E662B0 /* Build configuration list for PBXNativeTarget "CustomDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +529,7 @@
 				199A0BD21D4EA5E200E662B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		199A0BD31D4EA5E200E662B0 /* Build configuration list for PBXNativeTarget "CustomDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +538,7 @@
 				199A0BD51D4EA5E200E662B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
