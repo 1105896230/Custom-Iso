@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomDemo/BullerManage.m"
-            timestampString = "491786934.578492"
+            timestampString = "491788316.564635"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
             landmarkName = "-createBullerView:traobjectory:"
             landmarkType = "5">
          </BreakpointContent>
